@@ -1,0 +1,22 @@
+GEM
+  specs:
+    autoprefixer-rails (9.7.4)
+      execjs
+    execjs (2.7.0)
+    jekyll-autoprefixer (1.0.2)
+      autoprefixer-rails (~> 9.3)
+    libv8 (3.16.14.19-x86_64-linux)
+    ref (2.0.0)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-autoprefixer
+  therubyracer
+
+BUNDLED WITH
+   2.1.4
