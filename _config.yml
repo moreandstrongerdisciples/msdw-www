@@ -5,6 +5,6 @@ description: Connecting, Equipping, and Sending Church Planters to make more and
 # Build settings
 permalink: :title/
 sass:
-  sass_dir: css
+  sass_dir: assets/scss
 gems:
   - jekyll-autoprefixer

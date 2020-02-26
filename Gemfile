@@ -1,2 +1,1 @@
-gem 'jekyll-autoprefixer'
-gem 'therubyracer'
+gem 'jekyll-watch'

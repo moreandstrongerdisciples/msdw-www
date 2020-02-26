@@ -1,22 +1,20 @@
 GEM
   specs:
-    autoprefixer-rails (9.7.4)
-      execjs
-    execjs (2.7.0)
-    jekyll-autoprefixer (1.0.2)
-      autoprefixer-rails (~> 9.3)
-    libv8 (3.16.14.19-x86_64-linux)
-    ref (2.0.0)
-    therubyracer (0.12.3)
-      libv8 (~> 3.16.14.15)
-      ref
+    ffi (1.12.2)
+    jekyll-watch (2.2.1)
+      listen (~> 3.0)
+    listen (3.2.1)
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.10.1)
+      ffi (~> 1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-autoprefixer
-  therubyracer
+  jekyll-watch
 
 BUNDLED WITH
    2.1.4
