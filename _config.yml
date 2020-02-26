@@ -1,2 +1,4 @@
+sass:
+  sass_dir: assets/css
 gems:
   - jekyll-autoprefixer
