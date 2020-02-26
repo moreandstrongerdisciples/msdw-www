@@ -1,4 +1,10 @@
+# Site settings
+title: Making Stronger Disciples Association
+description: Connecting, Equipping, and Sending Church Planters to make more and stronger disciples of Jesus Christ.
+
+# Build settings
+permalink: :title/
 sass:
-  sass_dir: assets/css
+  sass_dir: css
 gems:
   - jekyll-autoprefixer
